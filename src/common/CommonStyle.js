@@ -129,12 +129,12 @@ export const PageSubTopic = styled.span`
 `;
 
 export const PageContent = styled.section`
-  width: calc(100% - 35px);
+  width: calc(100% - 100px);
   margin-left: 25px;
   margin-bottom: 25px;
 
   @media only screen and (min-width: 768px) {
-    width: calc(100% - 75px);
+    width: calc(100% - 145px);
     margin-left: 65px;
     margin-bottom: 25px;
   }

@@ -29,22 +29,22 @@ const Notification = (props) => {
       </HeaderContainer>
 
       <PageContent>
-        {/* <PageSubTopic
+        <PageSubTopic
           theme={{
             fontFamily: "futura_book",
             fontSize: "25px",
           }}
         >
-          <b>ReactJS</b>
-        </PageSubTopic> */}
+          Employees are Valuable Assets of an Organization and the Key to
+          Success.
+        </PageSubTopic>
         <PageContentText
           theme={{
             fontFamily: "futura_book",
             fontSize: "20px",
           }}
         >
-          Employees are Valuable Assets of an Organization and the Key to
-          Success.There is both pro and cons of a company. But in this company,
+          Each company has pros and cons. But in this company,
           every employee is very co-operative and cheerful. Especially Dinesh
           sir, Omkar sir, Harjeet sir, Sukhjit Ji, Simran Ji, and Sukhbir Ji are
           very helpful and I am very thankful to them.
@@ -58,8 +58,8 @@ const Notification = (props) => {
         >
           My suggestion to the company is that the company should provide laptop
           and other accessories to its employees so that the privacy of the
-          projects should remain secure and There should be a proper traning
-          session for the freshers so that they can also achieve the same level
+          projects should remain secure and there should be proper traning
+          session for the freshers so that they can achieve the same level
           as others.
         </PageContentText>
       </PageContent>
