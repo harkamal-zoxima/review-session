@@ -56,9 +56,7 @@ const Notification = (props) => {
             marginTop: "20px",
           }}
         >
-          My suggestion to the company is that the company should provide laptop
-          and other accessories to its employees so that the privacy of the
-          projects should remain secure and there should be proper traning
+          My suggestion to the company is that there should be proper traning
           session for the freshers so that they can achieve the same level
           as others.
         </PageContentText>
